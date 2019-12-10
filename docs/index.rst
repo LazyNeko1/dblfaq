@@ -14,7 +14,6 @@ Hosts
 Languages
 -----
    Beginner:
-      Python (easiest to learn)
       JavaScript
       Java (slightly more complex)
    Harder languages:
