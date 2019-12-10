@@ -1,6 +1,9 @@
-Hosts
+How do I make a bot
 -----
+  Hosts
+
    Free: 
+
       Heroku
 
       Repl.it
@@ -19,8 +22,7 @@ Hosts
 
       Amazon Web Services
 
-Languages
------
+  Languages
    https://anidiots.guide/getting-started/getting-started-long-version
    
    Beginner:
