@@ -13,10 +13,10 @@ Hosts
 
 Languages
 -----
-Beginner:
-   Python (easiest to learn)
-   JavaScript
-   Java (slightly more complex)
-Harder languages:
-   C family
+   Beginner:
+      Python (easiest to learn)
+      JavaScript
+      Java (slightly more complex)
+   Harder languages:
+      C family
    
