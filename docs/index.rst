@@ -1,7 +1,7 @@
 How do I make a bot?
 -----
   Hosts
-
+  -----
    Free: 
 
       Heroku
@@ -23,6 +23,7 @@ How do I make a bot?
       Amazon Web Services
 
   Languages
+-----
    https://anidiots.guide/getting-started/getting-started-long-version
    
    Beginner:
