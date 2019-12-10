@@ -67,3 +67,11 @@ What is starboard?
     4. Hateful messages of any kind.
 
    Not following the starboard rules will result in a mute. 
+   
+   Also, things that do NOT work:
+
+    1. Starring Luca(bot)'s messages
+
+    2. Starring your own messages
+
+    3. Starring a muted user's messages
