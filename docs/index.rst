@@ -50,13 +50,19 @@ What is starboard?
   A starboard is, simply put, a system that "saves" your message
 
    Content that is usually starboard worthy:
+
     1. Memes and other funny community content.
+
     2. That's pretty much it, it's mostly just for fun and games!
 
    Content that is not starboard worthy:
+
     1. Random messages that aren't really funny or entertaining at all.
+
     2. Your own messages, nobody wants to see your "Star this message for..." message.
+
     3. Advertisements or self promotions (obviously).
+
     4. Hateful messages of any kind.
 
    Not following the starboard rules will result in a mute. 
