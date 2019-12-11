@@ -87,3 +87,66 @@ Luca's commands
    `- owner / -owners @bot` Shows all owners of that bot.
    `- prefix @bot` Shows the prefix of that bot.
    Add `noembed` to the end of the command to get a mobile friendly version.
+
+
+Rules
+-----
+1. Don’t be a dick
+
+2. Follow the Discord Terms of Service
+
+3. No discrimination, hate speech or arguing (over stupid stuff; Take that to DMs), this includes trash talking:
+
+      a. Other users
+
+      b. Bots
+
+      c. Programming languages, etc
+
+4. No self promotion / advertising including but not limited to: 
+
+      a. Server invites (providing official Discord guild invites or bot support guild invites when asked for is allowed), these can be in the guild or in DMs.
+
+      b. YouTube/streams
+
+      c. Begging people to use your bot
+
+5. Don’t spam. (includes mic spam in voice channels)
+
+      a. This includes copypastas/chain mails.
+
+      b. This also includes spam joining bots to voice channels
+
+      c. Don't spam / abuse bot commands 
+
+6. Speak english. This way everyone can understand you. It is our lingua franca after all.
+
+7.
+
+      a. Don’t spoon-feed or attack beginners.
+
+           Everyone starts somewhere and asking questions is smart. 
+
+           Do not attack people for not knowing how to code. 
+
+           Point them to great learning sources and help them with problems.
+
+           However, you shouldn’t just give them finished code because then they only learn to copy more.
+
+      b. If you are a beginner, have a will to learn and do not expect to be spoon-fed.
+
+8. Be friendly to other users.
+
+9.
+
+      a. Please refrain from posting memes in the general channel, (Including but not limited to off-topic content and/or conversations) they belong in the off-topic channel.
+
+      b. Keep the general channel to friendly / neutral / intellectual conversations 
+
+10. Do not evade punishments.
+
+11. No political arguments/discussion.
+
+12. No NSFW content, in this server we have no NSFW channels.
+
+      a. This includes communicating access of any kind to NSFW content outside of Discord e.g a picture ID on imgur 
