@@ -1,8 +1,8 @@
 How do I make a bot?
 -----
   Hosts
-  ------
-   .. Free: 
+  .. toctree::
+   Free: 
 
       Heroku
 
@@ -10,7 +10,7 @@ How do I make a bot?
 
       Self Hosting
 
-   .. Paid:
+   Paid:
 
       Digital Ocean
 
