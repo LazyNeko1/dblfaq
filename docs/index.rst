@@ -22,7 +22,7 @@ How do I make a bot?
 
       Amazon Web Services
 
-  Languages
+Languages
 -----
    https://anidiots.guide/getting-started/getting-started-long-version
    
