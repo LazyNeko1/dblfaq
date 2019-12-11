@@ -1,7 +1,7 @@
 How do I make a bot?
 -----
   Hosts
-  -----
+  ------
    Free: 
 
       Heroku
