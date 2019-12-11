@@ -2,7 +2,7 @@ How do I make a bot?
 -----
   Hosts
   ------
-   ..Free: 
+   .. Free: 
 
       Heroku
 
@@ -10,7 +10,7 @@ How do I make a bot?
 
       Self Hosting
 
-   ..Paid:
+   .. Paid:
 
       Digital Ocean
 
