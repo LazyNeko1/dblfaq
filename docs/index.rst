@@ -75,3 +75,15 @@ What is starboard?
     2. Starring your own messages
 
     3. Starring a muted user's messages
+
+
+
+Luca's commands
+----
+  Prepend commands with the prefix `-` or `@Luca#0393`.
+   Please refrain from using these commands in non testing channels.
+   `- botinfo @bot` Shows bot info, title redirects to site listing.
+   `- bots @user` Shows all bots of that user, includes bots in the queue.
+   `- owner / -owners @bot` Shows all owners of that bot.
+   `- prefix @bot` Shows the prefix of that bot.
+   Add `noembed` to the end of the command to get a mobile friendly version.
