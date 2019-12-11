@@ -150,3 +150,7 @@ Rules
 12. No NSFW content, in this server we have no NSFW channels.
 
       a. This includes communicating access of any kind to NSFW content outside of Discord e.g a picture ID on imgur 
+
+Web Admins reserve the right to issue mutes/bans without providing reasons.
+
+Moderators can issue punishments at their own discretion regardless of if the rules don't specify an offence at the time.
