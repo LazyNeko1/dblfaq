@@ -42,7 +42,7 @@ Languages
 
       - Bot development does NOT start with adding your bot to https://top.gg/. Create your bot and make the code first. 
 
-      - You can ask for help in the Development channel, but do NOT expect to be spoon fed (https://www.collinsdictionary.com/dictionary/english/spoon-feed) 
+      - You can ask for help in the Development channel, but do NOT expect to be [spoon fed](https://www.collinsdictionary.com/dictionary/english/spoon-feed) 
 
 
 What is starboard?
