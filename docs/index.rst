@@ -76,8 +76,20 @@ How long does bot approval take?
 
    Please be patient, Mods will get to your bot. 
 
+Is minimodding allowed?
+-----
+ "Mini-Modding" or "Backseat Moderating" is when a member who is NOT a Moderator, takes up the role (of Moderator) by demanding other members or taking part in Moderator actions such as;
 
 
+   - Requesting another member to move to the correct channels in a demanding manner.
+
+   - Investigating issues that you can't help with ("Investigations" are done by Moderators and only Moderators).
+
+   - Pestering a member to display their age to see if they are underage (although this isn't necessarily bad, some members have been found pestering members who don't wish to display their age).
+
+     Although we follow the Discord Terms of Service, we are not out to witch hunt new members.
+
+   - Attempting to handle situations in any of the channels when a Moderator is active or handling the situation themselves.
 
 What is starboard?
 -----
