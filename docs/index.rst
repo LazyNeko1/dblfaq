@@ -48,7 +48,7 @@ Languages
 
 Why am I logged into the wrong account?
 -----
-  Make sure you are logged into the right account at **https://discordapp.com/channels/@me** (Open this in your browser!)
+  Make sure you are logged into the right account at https://discordapp.com/channels/@me **(Open this in your browser!)**
   
   Log out on the web client and log back in to the correct account.
 
