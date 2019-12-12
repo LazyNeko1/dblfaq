@@ -46,6 +46,14 @@ Languages
 
            (https://www.collinsdictionary.com/dictionary/english/spoon-feed) 
 
+Why am I logged into the wrong account?
+-----
+  Make sure you are logged into the right account at **https://discordapp.com/channels/@me** (Open this in your browser!)
+  
+  Log out on the web client and log back in to the correct account.
+
+  Your desktop client is not the same as on the website.
+
 Where can I submit my bot?
 -----
   You can apply to add your bot here: https://top.gg/newbot
