@@ -46,6 +46,38 @@ Languages
 
            (https://www.collinsdictionary.com/dictionary/english/spoon-feed) 
 
+Where can I submit my bot?
+-----
+  You can apply to add your bot here: https://top.gg/newbot
+  
+  You must be logged in to discord to add a bot.
+
+
+
+Why did my bot get declined?
+-----
+   - Your bot did not follow our bot rules in the rules channel.
+
+   - View the Mod Log channel for the reason your bot was declined and by what moderator.
+
+   - Your bot is tested using permissions=0, you should ensure that your bot functions without permissions.
+
+   - If the decline reason you received is not clear enough, you should contact the moderator for clarification.
+
+How long does bot approval take?
+-----
+   - There is a queue of bots, so your bot will not be reviewed instantly.
+
+   - It can take up to a week **(or longer)** for your bot to be approved or declined due to there being a queue of bots manually reviewed by people with the Website Moderators role.
+
+   - Upon approval your bot will be added to this server and the "Bot Developer" role will automatically be given to you.
+
+   - If in the chance your bot is denied for one of the reasons stated in #rules-and-info, you will find out why in #mod-log.
+
+   Please be patient, Mods will get to your bot. 
+
+
+
 
 What is starboard?
 -----
