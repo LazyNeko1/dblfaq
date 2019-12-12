@@ -213,4 +213,4 @@ What is "DBL League"?
 -----
 The Discord Bot List League is an activity based, league-style competition that takes place in this server among all members. 
 
-Essentially, the basics is that you send a message, and the bot named Coffee will record it, as points.
+Essentially, the basics is that you send a message, and the bot named Luca will record it, as points.
