@@ -6,9 +6,17 @@ Where am I?
 -----
   just... look above this.
 
+Is pinging the @Moderators role allowed?
+-----
+  Yes, only if it requires more than 2 mods to handle something. 
 
+   - Raid
 
+   - NSFW content (being spammed, or multiple posts)
 
+   - Invite spam (from multiple users)
+
+  If none of these apply, any one of the moderators will most likely mute you.
 
 
 
