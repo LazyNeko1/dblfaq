@@ -16,12 +16,16 @@ Why am I getting a 500 (or 400) error when doing (x)?
 
     Problem: the server (https://top.gg) did something wrong.
 
-
+   
    4xx
 
     Problem for 404: You used a incorrect URL.
 
     Problem for 403: You aren't allowed here.
+
+   3xx
+
+    That's a redirect. You need to stay here.
 
    2xx
 
@@ -29,7 +33,9 @@ Why am I getting a 500 (or 400) error when doing (x)?
 
     We don't want that. We want the server to be mad :)
 
+   1xx
 
+    Something happened, but we dont know what. 
 
 
 
