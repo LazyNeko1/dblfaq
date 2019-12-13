@@ -305,6 +305,23 @@ Web Admins reserve the right to issue mutes/bans without providing reasons.
 Moderators can issue punishments at their own discretion regardless of if the rules don't specify an offence at the time.
 
 
+Requests about bots
+-----
+ "I need help setting up (x) bot"
+
+ "I can't get (x) bot to work"
+
+ "Why isn't (x) bot working?"
+
+ "Could someone help with the mee6 bot"
+ 
+ All of these questions will be answered with one thing, and one thing only.
+
+   -**Go to the bot's support server**. 
+
+ You can easily find it by clicking the [Support Server] button on the bot's top.gg profile.
+
+
 
 What is "DBL League"?
 -----
