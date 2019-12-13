@@ -228,6 +228,9 @@ Languages
 
            (https://www.collinsdictionary.com/dictionary/english/spoon-feed) 
 
+Are rainbow roles allowed?
+-----
+ No, Rainbow roles go against Discord TOS and will not be accepted into DBL.
 
 Luca's commands
 ----
