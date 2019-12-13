@@ -12,20 +12,22 @@ Why am I getting a 500 (or 400) error when doing (x)?
 
   Key to web errors (and how to fix them):
 
-   500x
+   5xx
 
     Problem: the server (https://top.gg) did something wrong.
 
 
-   400x
+   4xx
 
     Problem for 404: You used a incorrect URL.
 
     Problem for 403: You aren't allowed here.
 
-   200x
+   2xx
 
-    Problem: literally no problem 200 means server and client are happy :)
+    Problem: literally no problem 200 means server and client are happy. 
+
+    We don't want that. We want the server to be mad :)
 
 
 
