@@ -26,7 +26,7 @@ Why am I getting a 500 (or 400) error when doing (x)?
 
     Problem: the server (https://top.gg) did something wrong.
 
-    Fix: nothing. Ping a single mod with a image of it.
+    Fix: nothing. Ping a single mod with a image of it and reload the page after a few minutes.
    
    4xx
 
