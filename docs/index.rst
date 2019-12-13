@@ -6,6 +6,10 @@ Where am I?
 -----
   just... look above this.
 
+What is life?
+-----
+I dont know I'm just a smol Neko 
+
 Why am I getting a 500 (or 400) error when doing (x)?
 -----
  Either the server (https://top.gg) had a stroke, or you did something wrong.
