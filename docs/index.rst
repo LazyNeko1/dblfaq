@@ -26,16 +26,23 @@ Why am I getting a 500 (or 400) error when doing (x)?
 
     Problem: the server (https://top.gg) did something wrong.
 
+    Fix: nothing. Ping a single mod with a image of it.
    
    4xx
 
     Problem for 404: You used a incorrect URL.
 
+    Fix: make sure your URL is correct.
+
     Problem for 403: You aren't allowed here.
+
+    Fix: you... cant fix it you aren't supposed to be here..
 
    3xx
 
     That's a redirect. You need to stay here.
+
+    Fix: you dont need to fix it.
 
    2xx
 
@@ -43,12 +50,13 @@ Why am I getting a 500 (or 400) error when doing (x)?
 
     We don't want that. We want the server to be mad :)
 
+    Fix: no fix. You're fine.
    1xx
 
     Something happened, but we dont know what. 
 
 
-
+    Fix: I dont know how to fix it.
 
 Is pinging the @Moderators role allowed?
 -----
