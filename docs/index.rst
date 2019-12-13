@@ -1,3 +1,13 @@
+What is this?
+-----
+  Well, of course, this is the FAQ for Discord Bots List (https://top.gg)
+
+Where am I?
+-----
+  just... look above this.
+
+
+
 How do I make a bot?
 -----
   Hosts
