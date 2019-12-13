@@ -10,6 +10,12 @@ What is life?
 -----
 I dont know I'm just a smol Neko 
 
+Information
+-----
+ We are **NOT** affiliated with https://discordapp.com
+ 
+ We are **NOT** a support server for bots! Do NOT ask, we will tell you to go to the bot's support server.
+
 Why am I getting a 500 (or 400) error when doing (x)?
 -----
  Either the server (https://top.gg) had a stroke, or you did something wrong.
