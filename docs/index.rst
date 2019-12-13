@@ -245,6 +245,14 @@ Luca's commands
 
    Add `-noembed` to the end of the command to get a mobile friendly version.
 
+Where can I speak other languages?
+-----
+(nerede konuşabilirim)
+
+   You can speak in other languages in the Off Topic channel.
+
+   (İngilizceden başka diller için off-topic kullanın.)
+
 
 Rules
 -----
