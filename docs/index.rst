@@ -6,6 +6,32 @@ Where am I?
 -----
   just... look above this.
 
+Why am I getting a 500 (or 400) error when doing (x)?
+-----
+ Either the server (https://top.gg) had a stroke, or you did something wrong.
+
+  Key to web errors (and how to fix them):
+
+   500x
+
+    Problem: the server (https://top.gg) did something wrong.
+
+
+   400x
+
+    Problem for 404: You used a incorrect URL.
+
+    Problem for 403: You aren't allowed here.
+
+   200x
+
+    Problem: literally no problem 200 means server and client are happy :)
+
+
+
+
+
+
 Is pinging the @Moderators role allowed?
 -----
   Yes, only if it requires more than 2 mods to handle something. 
