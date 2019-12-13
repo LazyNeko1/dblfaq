@@ -151,9 +151,9 @@ How do I make a bot?
   
    Free: 
 
-      Heroku
+      Heroku (if you use this you need help)
 
-      Repl.it
+      Repl.it (same as heroku. These lie to you about their uptime.)
 
       Self Hosting
 
@@ -168,6 +168,8 @@ How do I make a bot?
       OVH
 
       Amazon Web Services
+
+      Contabo
 
 Languages
 -----
