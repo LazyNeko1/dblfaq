@@ -340,7 +340,13 @@ Requests about bots
 
  You can easily find it by clicking the [Support Server] button on the bot's top.gg profile.
 
-
+(Other questions)
+ 
+ "What is a good bot for (x)"
+ 
+ "what bot is like (x)"
+ 
+ just go to https://top.gg please... for the love of god 
 
 What is "DBL League"?
 -----
