@@ -232,6 +232,18 @@ Are rainbow roles allowed?
 -----
  No, Rainbow roles go against Discord TOS and will not be accepted into DBL.
 
+
+
+What's appropriate for the off topic channel?
+----
+  Things that are okay to say (or send):
+   - Memes
+   - Funny comments
+   - Normal conversation 
+  Things that are NOT okay:
+   - Extreme cursing (n-word, etc.)
+   - Rude comments
+   - NSFW
 Luca's commands
 ----
   Prepend commands with the prefix `-` or `@Luca#0393`.
