@@ -8,7 +8,7 @@ Where am I?
 
 What is life?
 -----
-I dont know I'm just a smol Neko 
+  I dont know I'm just a smol Neko 
 
 Information
 -----
