@@ -246,6 +246,8 @@ What's appropriate for the off topic channel?
    - NSFW
 Luca's commands
 ----
+  Please use these in the bot channels.
+
   Prepend commands with the prefix `-` or `@Luca#0393`.
 
    Please refrain from using these commands in non testing channels.
