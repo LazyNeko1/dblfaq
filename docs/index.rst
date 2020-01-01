@@ -114,6 +114,8 @@ How long does bot approval take?
    - Upon approval your bot will be added to this server and the "Bot Developer" role will automatically be given to you.
 
    - If in the chance your bot is denied for one of the reasons stated in #rules-and-info, you will find out why in #mod-log.
+  
+   - **If there is a major holiday, queue may take 3 or more weeks**
 
    Please be patient, Mods will get to your bot. 
 
